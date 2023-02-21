@@ -1,4 +1,4 @@
-![We're PortaOne](https://github.com/portaone/PortaOne-/blob/main/PortaOne.png)
+![We're PortaOne](https://github.com/portaone/.github/blob/main/profile/PortaOne.png)
 
 We allow operators, telecommunication service providers, and carriers to launch and monetize a diverse range of retail, enterprise, SME, and wholesale services on a single platform.
 
